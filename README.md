@@ -15,16 +15,10 @@ npx create-react-native-app -t with-router
 - [Request for Comments](https://github.com/expo/router/discussions/1)
 
 
-## Sample Images
- file:///home/apurba/Pictures/Screenshot_20230325-221019_4.png
- file:///home/apurba/Pictures/Screenshot_20230325-221019_3.png
- 
- file:///home/apurba/Pictures/Screenshot_20230325-221019_2.png
- file:///home/apurba/Pictures/Screenshot_20230325-220940_1.png
-file:///home/apurba/Pictures/Screenshot_20230325-220947_1.png
+# Screenshots
+![job1](https://user-images.githubusercontent.com/119648597/227733242-0240d2ce-46e5-4c47-b021-87abc442bb11.png)
+![job2](https://user-images.githubusercontent.com/119648597/227733365-c03dd713-5e13-4710-9641-a9cf4bb8dec2.png)
 
- file:///home/apurba/Pictures/Screenshot_20230325-222405_1.png
-file:///home/apurba/Pictures/Screenshot_20230325-221111_1.png
+![Screenshot_20230325-221019_2](https://user-images.githubusercontent.com/119648597/227733128-3bfdab73-df9a-4a33-946c-c9def238b2d5.png)
 
- file:///home/apurba/Pictures/Screenshot_20230325-222359_1.png
  
